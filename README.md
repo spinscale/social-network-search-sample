@@ -5,6 +5,8 @@
 This is a quick PoC, that uses Elasticsearch to store very few documents and
 demo some different queries to retrieve data.
 
+You can find the corresponding blog post at https://spinscale.de/posts/2020-05-29-implementing-a-linkedin-like-search-as-you-type-with-elasticsearch.html
+
 In order to get up and running run
 
 ```bash
